@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+}
+
+#app {
+  width: 80%;
+  padding: 60px 0;
+  max-width: 1440px;
+  margin: 0 auto;
+  height: 100%;
+  min-height: 100vh;
+}
+
+li {
+  list-style: none;
+}
+
+
